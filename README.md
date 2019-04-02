@@ -18,3 +18,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2816315/
 
 combinatorial optimization problems
 https://imada.sdu.dk/~marco/DM63/Slides/dm63-lec1.pdf
+
+
+Combinatorial Problem Solving (CPS)
+http://59.80.44.99/www.cs.upc.edu/~erodri/webpage/cps//theory/cp/intro/slides.pdf
